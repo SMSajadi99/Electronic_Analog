@@ -13,3 +13,9 @@
 𝐵𝑊 (𝑐𝑙𝑜𝑠𝑒𝑑 𝑙𝑜𝑜𝑝)≥10𝑀𝐻𝑧 
 
 𝑃ℎ𝑎𝑠𝑒 𝑀𝑎𝑟𝑔𝑖𝑛≥60°
+
+
+# Circuit in LtSpice :
+
+![image](https://user-images.githubusercontent.com/50498845/210150479-08f58be5-6e18-4ffc-8398-78ac79deacdf.png)
+
