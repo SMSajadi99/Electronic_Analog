@@ -17,5 +17,5 @@
 
 # Circuit in LtSpice :
 
-![image](https://user-images.githubusercontent.com/50498845/210150479-08f58be5-6e18-4ffc-8398-78ac79deacdf.png)
+![image](https://user-images.githubusercontent.com/50498845/210150621-9365a952-2306-4444-b844-e3fdbb00c7d1.png)
 
