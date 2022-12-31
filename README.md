@@ -1,6 +1,7 @@
 # Amplifier Design - Analog Electronics
 
-![image](https://user-images.githubusercontent.com/50498845/210151530-1187a1fd-190a-4c56-b1ee-969ec1a9ced7.png)
+![image](https://user-images.githubusercontent.com/50498845/210151631-1a63ef91-0b36-4326-9c6b-b247c85b9bad.png)
+
 
 𝐴𝑣𝑜(𝑜𝑝𝑒𝑛 𝑙𝑜𝑜𝑝)≥115𝑑𝐵 
 
