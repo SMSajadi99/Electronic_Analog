@@ -22,4 +22,5 @@
 # Numbering Circuit Nodes :
 Numbering to use in HSpice Code ...
 
-![image](https://user-images.githubusercontent.com/50498845/210151067-acbe5488-6d33-4093-9130-9b695dbabe30.png)
+![image](https://user-images.githubusercontent.com/50498845/210151275-c703f0bd-8593-4f00-996e-8280f2e74844.png)
+
