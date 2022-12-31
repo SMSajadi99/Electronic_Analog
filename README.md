@@ -1,4 +1,4 @@
-# Electronic_Analog
+# Amplifier Design - Analog Electronics
 
 ![image](https://user-images.githubusercontent.com/69210109/210113145-7640e29a-72cd-464f-8ee0-4ce71bfd57c7.png)
 
